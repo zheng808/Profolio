@@ -1,0 +1,32 @@
+.about-page {
+  padding-top: 40px;
+  min-height: 100vh;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  justify-content: center;
+
+ }
+
+
+.content-grid{
+    width: calc(100% - 20rem);
+    margin: 0 auto;
+}
+
+h1{
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  padding-right: 50px;
+  color:rgb(78, 169, 218);
+ }
+
+.content-grid {
+    flex: auto;
+ }
+
+p{
+	font-weight: 300;
+	line-height: 40px;
+}
