@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+import ScrollToNext from '../../components/ScrollToNext';
 
 const AboutPage = (props, context) => {
 
@@ -18,12 +19,14 @@ const AboutPage = (props, context) => {
           	I am obsessed with making the web look awsome with CSS,foundation,and Bootstrap. 
           	</p>
           	<p>
-          	I am currently learning React, and Django. This profolio website is done by React, and I had so much fun learning and keeping myself updated.
+          	I am currently learning React, and Django. This profolio website is done by React, and I had so much fun learning and keeping myself updated.I would like to pursue my career and spend time exploring the corners of BC.
           	</p>
           </div>
         </div>
       </div>
+       <ScrollToNext/>
     </div>
+    
   );
 
 }

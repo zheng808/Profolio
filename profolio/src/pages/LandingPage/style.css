@@ -45,6 +45,16 @@ a{
   animation-iteration-count: 1;
 }
 
+.content-grid{
+    width: calc(100% - 20rem);
+    margin: 0 auto;
+    flex: auto;
+}
+
+.down-arrow{
+    margin-top: 100px;
+}
+
 @keyframes icon-wobble {
     25% {
       transform: translateY(-8px);

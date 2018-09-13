@@ -12,6 +12,7 @@
 .content-grid{
     width: calc(100% - 20rem);
     margin: 0 auto;
+    flex: auto;
 }
 
 h1{
@@ -22,9 +23,6 @@ h1{
   color:rgb(78, 169, 218);
  }
 
-.content-grid {
-    flex: auto;
- }
 
 p{
 	font-weight: 300;

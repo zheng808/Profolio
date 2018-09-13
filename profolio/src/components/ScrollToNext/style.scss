@@ -1,0 +1,15 @@
+.scroll-to-next {
+  cursor: pointer;
+    
+  .arrow {
+    text-align: center;
+    margin: 0 auto;
+    
+    .scroll-text {
+      text-align: center;
+      font-size: 0.5rem;
+      margin-bottom: -0.125rem;
+    }
+  }
+
+}
