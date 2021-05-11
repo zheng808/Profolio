@@ -21,7 +21,7 @@ const PortfolioPage = (props, context) => {
         <i className="fab fa-app-store-ios"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="http://kennethio.com/dwf">Learn More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://drivewithfriend-demo.herokuapp.com/index.html">Learn More</a>
       </div>
     </div>
     <div className='portfolio-item'>
